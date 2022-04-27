@@ -1,2 +1,1 @@
-# 42_Piscine
-7-1 42 La-Piscine
+ex00 directory 안만들어서 0점
